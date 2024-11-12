@@ -15,6 +15,6 @@ Copyright (C) 2024, [Gianpaolo Macario](https://github.com/gmacario), all rights
 
 ### Source code license
 
-The source code contained in this repository and the executable distributions are licensed under the terms of the MIT license as detailed in the LICENSE file.
+The source code contained in this repository and the executable distributions are licensed under the terms of the MIT license as detailed in the [LICENSE](LICENSE) file.
 
 <!-- EOF -->
