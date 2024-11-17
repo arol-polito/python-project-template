@@ -4,7 +4,7 @@
 
 ## Reference documents
 
-* [Creating a template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) - GitHub Docs
+- [Creating a template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) - GitHub Docs
 
 ## Step-by-step instructions
 
@@ -19,12 +19,12 @@ In the GitHub dashboard, click **New** to create a new repository.
 > A repository contains all project files, including the revision history.
 > Already have a project repository elsewhere? [Import a repository](https://github.com/new/import).
 
-* Repository template: `arol-polito/python-project-template`
-* Include all branches: (leave unselected)
-* Owner: (choose the user or organization you want to create this repository under, example: `arol-polito`)
-* Repository name: (choose a unique name under the organization, example: `python-training-2024`)
-* Description (optional): (provide a descriptive name, example: `Python and Golang training workshop in AROL, 2024`)
-* Visibilty: (choose visibility that this repository should have, example: `Private`)
+- Repository template: `arol-polito/python-project-template`
+- Include all branches: (leave unselected)
+- Owner: (choose the user or organization you want to create this repository under, example: `arol-polito`)
+- Repository name: (choose a unique name under the organization, example: `python-training-2024`)
+- Description (optional): (provide a descriptive name, example: `Python and Golang training workshop in AROL, 2024`)
+- Visibilty: (choose visibility that this repository should have, example: `Private`)
 
 <!--
 * Initialize this repository with:
