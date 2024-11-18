@@ -2,7 +2,7 @@
 
 Project template suitable for Python development.
 
-This template provides a basic [Devevelopment Container](https://containers.dev/) with the following components:
+This template provides a basic [Development Container](https://containers.dev/) with the following components:
 
 - [Ubuntu 24.04](https://ubuntu.com/)
 - [Python 3.12](https://www.python.org/)
