@@ -8,7 +8,7 @@ This template provides a basic [Development Container](https://containers.dev/) 
 - [Python 3.12](https://www.python.org/)
 - [Poetry](https://python-poetry.org/)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI (`claude` command)
-- [Visual Studio Code](https://code.visualstudio.com/) extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+- [Visual Studio Code](https://code.visualstudio.com/) extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [Claude Code for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 
 ## Copyright and license for "python-project-template"
 
