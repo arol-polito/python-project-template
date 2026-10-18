@@ -25,6 +25,7 @@
       "extensions": [
         "anthropic.claude-code",
         "charliermarsh.ruff",
+        "davidanson.vscode-markdownlint",
         "esbenp.prettier-vscode",
         "mhutchie.git-graph",
         "ms-python.python"
