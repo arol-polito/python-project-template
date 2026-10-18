@@ -24,6 +24,7 @@
     "vscode": {
       "extensions": [
         "anthropic.claude-code",
+        "charliermarsh.ruff",
         "esbenp.prettier-vscode",
         "mhutchie.git-graph",
         "ms-python.black-formatter",
