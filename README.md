@@ -4,15 +4,26 @@ Project template suitable for Python development.
 
 This template provides a basic [Development Container](https://containers.dev/) with the following components:
 
-- [Ubuntu 24.04](https://ubuntu.com/)
-- [Python 3.12](https://www.python.org/)
-- [Poetry](https://python-poetry.org/)
+- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) (`az` command)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI (`claude` command)
-- [Visual Studio Code](https://code.visualstudio.com/) extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [Claude Code for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+- [Docker](https://www.docker.com/) (Docker-in-Docker)
+- [GitHub CLI](https://cli.github.com/) (`gh` command)
+- [Node.js](https://nodejs.org/)
+- [Poetry](https://python-poetry.org/)
+- [Python 3.12](https://www.python.org/)
+- [Tailscale](https://tailscale.com/) (`tailscale` command)
+- [Ubuntu 24.04](https://ubuntu.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) extensions:
+  - [Claude Code for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+  - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
 
 ## Copyright and license for "python-project-template"
 
-Copyright (C) 2024, [Gianpaolo Macario](https://github.com/gmacario), all rights reserved.
+Copyright (C) 2024-2026, [Gianpaolo Macario](https://github.com/gmacario), all rights reserved.
 
 ### Source code license
 
