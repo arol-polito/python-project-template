@@ -7,9 +7,13 @@ This template provides a basic [Development Container](https://containers.dev/) 
 - [Ubuntu 24.04](https://ubuntu.com/)
 - [Python 3.12](https://www.python.org/)
 - [Poetry](https://python-poetry.org/)
+- [Node.js](https://nodejs.org/)
+- [Docker](https://www.docker.com/) (Docker-in-Docker)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI (`claude` command)
 - [GitHub CLI](https://cli.github.com/) (`gh` command)
-- [Visual Studio Code](https://code.visualstudio.com/) extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [Claude Code for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) (`az` command)
+- [Tailscale](https://tailscale.com/) (`tailscale` command)
+- [Visual Studio Code](https://code.visualstudio.com/) extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter), [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [Claude Code for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 
 ## Copyright and license for "python-project-template"
 

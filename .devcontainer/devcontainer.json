@@ -26,7 +26,8 @@
         "anthropic.claude-code",
         "esbenp.prettier-vscode",
         "mhutchie.git-graph",
-        "ms-python.black-formatter"
+        "ms-python.black-formatter",
+        "ms-python.python"
       ]
     }
   }
