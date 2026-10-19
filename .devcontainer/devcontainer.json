@@ -12,8 +12,8 @@
     "ghcr.io/devcontainers/features/node:2": {},
     "ghcr.io/devcontainers/features/python:1": {},
     "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {},
-    "ghcr.io/devcontainers-extra/features/poetry:2": {},
-    "ghcr.io/devcontainers-extra/features/tailscale:1": {}
+    "ghcr.io/devcontainers-extra/features/tailscale:1": {},
+    "ghcr.io/devcontainers-extra/features/uv:1": {}
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
