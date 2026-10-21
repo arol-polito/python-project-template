@@ -12,6 +12,9 @@
     "ghcr.io/devcontainers/features/node:2": {},
     "ghcr.io/devcontainers/features/python:1": {},
     "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {},
+    "ghcr.io/devcontainers-extra/features/pipx-package:1": {
+      "package": "tau-ai"
+    },
     "ghcr.io/devcontainers-extra/features/tailscale:1": {},
     "ghcr.io/devcontainers-extra/features/uv:1": {}
   },
