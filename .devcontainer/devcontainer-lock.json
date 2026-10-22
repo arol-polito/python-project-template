@@ -10,11 +10,6 @@
       "resolved": "ghcr.io/devcontainers-extra/features/pipx-package@sha256:c363f3d6a519def38010afaca9f3a347031aa40551e6eb18b33fba4cd1cfbefb",
       "integrity": "sha256:c363f3d6a519def38010afaca9f3a347031aa40551e6eb18b33fba4cd1cfbefb"
     },
-    "ghcr.io/devcontainers-extra/features/tailscale:1": {
-      "version": "1.0.12",
-      "resolved": "ghcr.io/devcontainers-extra/features/tailscale@sha256:55c04299d85524ab1971565ee8d1c8055c9dd652654195d964c8baeb3f13265f",
-      "integrity": "sha256:55c04299d85524ab1971565ee8d1c8055c9dd652654195d964c8baeb3f13265f"
-    },
     "ghcr.io/devcontainers-extra/features/uv:1": {
       "version": "1.0.2",
       "resolved": "ghcr.io/devcontainers-extra/features/uv@sha256:1ac5b9f17a9e9e745933d0ac2ecf758e06ed3da4423cd22c94cce4d482fd2dd8",
@@ -44,6 +39,11 @@
       "version": "1.8.0",
       "resolved": "ghcr.io/devcontainers/features/python@sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511",
       "integrity": "sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511"
+    },
+    "ghcr.io/tailscale/codespace/tailscale:1": {
+      "version": "1.0.8",
+      "resolved": "ghcr.io/tailscale/codespace/tailscale@sha256:fa5ce7ca298e7ab95842fef99e107a01b090b8ca8a687789220f3f3c887ccdb2",
+      "integrity": "sha256:fa5ce7ca298e7ab95842fef99e107a01b090b8ca8a687789220f3f3c887ccdb2"
     }
   }
 }

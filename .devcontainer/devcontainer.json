@@ -15,8 +15,8 @@
     "ghcr.io/devcontainers-extra/features/pipx-package:1": {
       "package": "tau-ai"
     },
-    "ghcr.io/devcontainers-extra/features/tailscale:1": {},
-    "ghcr.io/devcontainers-extra/features/uv:1": {}
+    "ghcr.io/devcontainers-extra/features/uv:1": {},
+    "ghcr.io/tailscale/codespace/tailscale:1": {}
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
