@@ -11,6 +11,7 @@ This template provides a basic [Development Container](https://containers.dev/) 
 - [Node.js](https://nodejs.org/)
 - [Python 3.12](https://www.python.org/)
 - [Tailscale](https://tailscale.com/) (`tailscale` command)
+- [Tau](https://github.com/huggingface/tau) terminal coding agent (`tau` command)
 - [Ubuntu 24.04](https://ubuntu.com/)
 - [uv](https://docs.astral.sh/uv/) (`uv` command)
 - [Visual Studio Code](https://code.visualstudio.com/) extensions:
