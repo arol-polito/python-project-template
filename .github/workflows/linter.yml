@@ -2,8 +2,17 @@
 name: Lint
 
 on: # yamllint disable-line rule:truthy
-  push: null
+  # Lint PR branches through pull_request only, so each PR commit runs once
+  push:
+    branches: [main]
   pull_request: null
+  workflow_dispatch: null
+
+# Cancel superseded runs on the same PR; never cancel runs on main
+concurrency:
+  group: >-
+    ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 permissions: {}
 
